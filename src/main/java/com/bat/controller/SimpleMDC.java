@@ -4,6 +4,6 @@ public class SimpleMDC {
 
 	public void checkingGitHub()
 	{
-		System.out.println("Checking changes are reflecting or not in github !!!!");
+		System.out.println("Checking changes are reflecting or not in github !!!! every tinh is working fine");
 	}
 }
